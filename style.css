@@ -1,0 +1,6 @@
+.subtitle{
+    background-color: palevioletred;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
